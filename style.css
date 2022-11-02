@@ -18,16 +18,16 @@ a {
 	border-bottom:1px dotted
 }
 
-a:hover {
-	border-bottom:1px solid
-}
-
 a:link {
 	color:#1b67c9
 }
 
 a:visited {
 	color:darkorchid
+}
+
+a:hover {
+	border-bottom:1px solid
 }
 
 h1 a, h2 a, h3 a {
